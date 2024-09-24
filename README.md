@@ -1,5 +1,4 @@
 # LEETCODE-Arrays-3043
-The provided code snippet implements a Trie data structure and uses it to find the Longest Common Prefix (LCP) between two integer arrays. Here's a breakdown of the code and its functionality:
 
 **1. TrieNode Class:**
 - Defines a class `TrieNode` with a single property `children`.
